@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{14DD3CE4-A628-425F-9453-8850E8A028BC}</ProjectGuid>
+    <ProjectGuid>{19953C1E-65A9-401F-9A53-70CBFA1921ED}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Transform</RootNamespace>
+    <RootNamespace>CoordSystem</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

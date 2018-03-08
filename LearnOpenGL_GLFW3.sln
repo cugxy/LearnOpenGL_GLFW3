@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Textures", "Textures\Textur
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Transform", "Transform\Transform.vcxproj", "{14DD3CE4-A628-425F-9453-8850E8A028BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CoordSystem", "CoordSystem\CoordSystem.vcxproj", "{19953C1E-65A9-401F-9A53-70CBFA1921ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{14DD3CE4-A628-425F-9453-8850E8A028BC}.Release|x64.Build.0 = Release|x64
 		{14DD3CE4-A628-425F-9453-8850E8A028BC}.Release|x86.ActiveCfg = Release|Win32
 		{14DD3CE4-A628-425F-9453-8850E8A028BC}.Release|x86.Build.0 = Release|Win32
+		{19953C1E-65A9-401F-9A53-70CBFA1921ED}.Debug|x64.ActiveCfg = Debug|x64
+		{19953C1E-65A9-401F-9A53-70CBFA1921ED}.Debug|x64.Build.0 = Debug|x64
+		{19953C1E-65A9-401F-9A53-70CBFA1921ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{19953C1E-65A9-401F-9A53-70CBFA1921ED}.Debug|x86.Build.0 = Debug|Win32
+		{19953C1E-65A9-401F-9A53-70CBFA1921ED}.Release|x64.ActiveCfg = Release|x64
+		{19953C1E-65A9-401F-9A53-70CBFA1921ED}.Release|x64.Build.0 = Release|x64
+		{19953C1E-65A9-401F-9A53-70CBFA1921ED}.Release|x86.ActiveCfg = Release|Win32
+		{19953C1E-65A9-401F-9A53-70CBFA1921ED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
